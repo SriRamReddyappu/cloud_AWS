@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         Sai Ram
-       
         </header>
     </div>
   );
